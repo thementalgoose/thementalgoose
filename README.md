@@ -1,4 +1,4 @@
-## Morning <img src="https://raw.githubusercontent.com/thementalgoose/thementalgoose/main/wave.gif" width="30px">
+## Morning <img src="https://raw.githubusercontent.com/thementalgoose/thementalgoose/master/wave.gif" width="30px">
 
 [![](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=linkedin&color=blue&style=flat-square)](https://www.linkedin.com/in/jordanspencerfisher/)
 [![](https://img.shields.io/static/v1?label=Google%20Play&message=%20&logo=google-play&color=success&style=flat-square)](https://play.google.com/store/apps/dev?id=7104925501019224102)
