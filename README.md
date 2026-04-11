@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/static/v1?label=Google%20Play&message=%20&logo=google-play&color=success&style=flat-square)](https://play.google.com/store/apps/dev?id=7104925501019224102)
 [![](https://img.shields.io/static/v1?label=Apple%20App%20Store&message=%20&logo=apple&color=blue&style=flat-square)](https://apps.apple.com/us/developer/jordan-fisher/id1826569298)
-[![](https://img.shields.io/static/v1?label=Repebble%20App%20Store&message=%20&color=orange&style=flat-square)]([https://play.google.com/store/apps/dev?id=7104925501019224102](https://apps.repebble.com/apps/dev/jordan-fisher_5d482ff5d76b0f00018300f2))
+[![](https://img.shields.io/static/v1?label=Repebble%20App%20Store&message=%20&color=orange&style=flat-square)](https://apps.repebble.com/apps/dev/jordan-fisher_5d482ff5d76b0f00018300f2)
 [![](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=linkedin&color=blue&style=flat-square)](https://www.linkedin.com/in/jordanspencerfisher/)
 [![](https://img.shields.io/static/v1?label=Web&message=%20&logo=internet-explorer&color=red&logoColor=white&style=flat-square)](https://thementalgoose.com)
 [![](https://img.shields.io/static/v1?label=Github&message=%20&logo=github&color=lightgrey&logoColor=white&style=flat-square)](wave.gif)
